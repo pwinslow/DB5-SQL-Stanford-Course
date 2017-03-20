@@ -25,7 +25,7 @@ OR
     hs1.id = l.id2
     AND l.id1 = hs2.id
     AND hs1.grade - hs2.grade >= 2
-)
+);
 
 -- Question 3:
 -- For every pair of students who both like each other, return the name and grade of both students. Include
